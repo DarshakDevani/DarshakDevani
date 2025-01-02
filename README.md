@@ -26,8 +26,8 @@
 
 **Github Stats 🚀**
 
-<p align="center">
-  <img width="33%" height=200 src="https://github-readme-stats.vercel.app/api?username=DarshakDevani&show_icons=true&theme=radical" />
-  <img width="33%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=DarshakDevani&show_icons=true&locale=en&layout=compact&theme=radical" alt="DarshakDevani" />
-  <img width="33%" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=DarshakDevani&theme=radical"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarshakDevani&show_icons=true&locale=en&layout=compact" alt="DarshakDevani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarshakDevani&show_icons=true&locale=en" alt="DarshakDevani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshakDevani&" alt="DarshakDevani" /></p>
